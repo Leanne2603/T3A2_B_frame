@@ -93,7 +93,7 @@ const Records = (props) => {
                       </Link>
                   </td>
                   <td>
-                      <button onClick={() => handleClick(data.id)}>Delete</button>
+                      <button id="delete" onClick={() => handleClick(data.id)}>Delete</button>
                   </td>
               </tr>
           ))}
