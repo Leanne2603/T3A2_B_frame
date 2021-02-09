@@ -68,7 +68,7 @@ class Contact extends React.Component {
                                         {/* <Card className="contactrightDown"> */}
                                             <div className="leftBpart">
                                                 <Link to='booking'>
-                                                    <button id='c_booking'>Booking Now<i className='far fa-play-circle' /></button>
+                                                    <button id='c_booking'>Book Now<i className='far fa-play-circle' /></button>
                                                 </Link>
                                             </div> 
                                         {/* </Card> */}
